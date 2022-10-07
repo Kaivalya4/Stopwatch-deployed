@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://kaivalya4.github.io/csb-scqhtw/static/css/main.9c27b4cf.chunk.css",
+    "main.js": "https://kaivalya4.github.io/csb-scqhtw/static/js/main.b6023bcd.chunk.js",
+    "main.js.map": "https://kaivalya4.github.io/csb-scqhtw/static/js/main.b6023bcd.chunk.js.map",
+    "runtime-main.js": "https://kaivalya4.github.io/csb-scqhtw/static/js/runtime-main.d248ccdc.js",
+    "runtime-main.js.map": "https://kaivalya4.github.io/csb-scqhtw/static/js/runtime-main.d248ccdc.js.map",
+    "static/js/2.66a14588.chunk.js": "https://kaivalya4.github.io/csb-scqhtw/static/js/2.66a14588.chunk.js",
+    "static/js/2.66a14588.chunk.js.map": "https://kaivalya4.github.io/csb-scqhtw/static/js/2.66a14588.chunk.js.map",
+    "index.html": "https://kaivalya4.github.io/csb-scqhtw/index.html",
+    "static/css/main.9c27b4cf.chunk.css.map": "https://kaivalya4.github.io/csb-scqhtw/static/css/main.9c27b4cf.chunk.css.map",
+    "static/js/2.66a14588.chunk.js.LICENSE.txt": "https://kaivalya4.github.io/csb-scqhtw/static/js/2.66a14588.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d248ccdc.js",
+    "static/js/2.66a14588.chunk.js",
+    "static/css/main.9c27b4cf.chunk.css",
+    "static/js/main.b6023bcd.chunk.js"
+  ]
+}
